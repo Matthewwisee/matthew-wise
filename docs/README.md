@@ -61,11 +61,11 @@ function search_fact() {
   <p>The JavaScript handles the "search" functionality.</p>
 </details>
 
-```html
+```diff
 HTML:
 <div class="search">
-  <input id="searchbar" type="text" name="search" placeholder="Search facts..">
-    <button onclick="search_fact()" type="submit">
+   <input id="searchbar" type="text" name="search" placeholder="Search facts..">
+ + <button onclick="search_fact()" type="submit">
       <img
         src="https://github.com/dgoodwin-maker/dev-easy-project/blob/main/images/icons8-search-50.png?raw=true"
         alt="Search Icon">

@@ -3,6 +3,8 @@ Hi 👋 My name is Matthew Wise
 
 I am an Information Technology student with a focus in Cybersecurity.
 
+<img src="https://github.com/Matthewwisee/matthew-wise/blob/main/images/dog.jpeg" alt="Dog" width="300"/>
+
 ### Skills 
 
 <p align="left">

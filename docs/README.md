@@ -79,4 +79,5 @@ HTML:
 </details>
 
 #### Attribution: https://www.w3schools.com/howto/howto_css_searchbar.asp
+#### Quote: "A quote" - Barry Cumbie
 
